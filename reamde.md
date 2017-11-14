@@ -11,3 +11,5 @@
 11. SCH_SDcard.SchLib			SD卡
 12. SCH_Switch.SchLib			开关
 13. SCH_USB.SchLib				USB
+
+TEST!
